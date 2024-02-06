@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Vaishnavi Panse<br>A passionate Full Stack Developer from India
+Hi 👋, I'm Vaishnavi Panse, A passionate Full Stack Developer from India. 
 
 
 ## 🌐 Socials:
@@ -14,8 +14,5 @@ Hi 👋, I'm Vaishnavi Panse<br>A passionate Full Stack Developer from India
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=vaishpanse&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
